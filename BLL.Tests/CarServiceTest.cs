@@ -10,7 +10,6 @@ using NUnit.Compatibility;
 using lab67.BLL.Interfaces;
 using lab67.BLL.Data;
 using lab67.BLL.Services;
-
 using lab67.DAL.Entities;
 
 namespace lab67.BLL.Tests
