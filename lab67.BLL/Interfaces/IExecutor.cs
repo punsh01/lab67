@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab67.DAL
+namespace lab67.BLL.Interfaces
 {
-    public class Class1
-    {
-    }
+	public interface IExecutor
+	{
+		void execute();
+	}
 }
