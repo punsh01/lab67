@@ -19,7 +19,7 @@ namespace lab67.App
 
 			NinjectModule serviceModule = ServiceModule.GetInstance();
             //serviceModule.Load();
-            int a = 2;
+
 			NinjectModule carModule = new CarModule();
 			//carModule.Load();
 
